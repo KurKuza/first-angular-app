@@ -36,8 +36,7 @@ export class AppComponent {
       this.titleColor = 'red';
       this.text = "Hehe no, it's an";
       this.frameWork = 'Angular';
-      this.img =
-        'https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png';
+      this.img = './assets/img/angular.png';
     }, 5000);
   }
 }
